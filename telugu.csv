@@ -1,0 +1,33 @@
+Country,Listeners,Revenue,Plays,Top Songs,Plays by Song,Artist,Album,Genre,Release Date,Duration,Popularity,Album Sales,Streams
+India,3500000,17500000,7000000,Butta Bomma,5000000,Armaan Malik,Ala Vaikunthapurramuloo,Pop,2020-01-26,198,99,2500000,125000000
+USA,120000,600000,240000,Butta Bomma,1200000,Armaan Malik,Ala Vaikunthapurramuloo,Pop,2020-01-26,198,92,120000,6000000
+UK,90000,450000,180000,Butta Bomma,900000,Armaan Malik,Ala Vaikunthapurramuloo,Pop,2020-01-26,198,87,90000,4500000
+Canada,60000,300000,120000,Ramuloo Ramulaa,800000,Anurag Kulkarni,Ala Vaikunthapurramuloo,Dance,2020-01-26,215,84,60000,3000000
+Australia,50000,250000,100000,Ramuloo Ramulaa,700000,Anurag Kulkarni,Ala Vaikunthapurramuloo,Dance,2020-01-26,215,80,50000,2500000
+Germany,35000,175000,70000,Samajavaragamana,500000,Sid Sriram,Ala Vaikunthapurramuloo,Romantic,2019-12-16,225,78,35000,1750000
+France,30000,150000,60000,Samajavaragamana,450000,Sid Sriram,Ala Vaikunthapurramuloo,Romantic,2019-12-16,225,75,30000,1500000
+Japan,20000,100000,40000,Bala Bala Bala,350000,Tanisk Bagchi,Arjun Reddy,Dance,2017-09-21,230,72,20000,1000000
+India,3400000,17000000,6800000,Ramuloo Ramulaa,6000000,Anurag Kulkarni,Ala Vaikunthapurramuloo,Dance,2020-01-26,215,96,2000000,100000000
+USA,115000,575000,230000,Ramuloo Ramulaa,1150000,Anurag Kulkarni,Ala Vaikunthapurramuloo,Dance,2020-01-26,215,90,115000,5750000
+UK,85000,425000,170000,Ramuloo Ramulaa,850000,Anurag Kulkarni,Ala Vaikunthapurramuloo,Dance,2020-01-26,215,86,85000,4250000
+Canada,50000,250000,100000,Bala Bala Bala,650000,Tanisk Bagchi,Arjun Reddy,Dance,2017-09-21,230,82,50000,2500000
+Australia,40000,200000,80000,Bala Bala Bala,600000,Tanisk Bagchi,Arjun Reddy,Dance,2017-09-21,230,78,40000,2000000
+Germany,30000,150000,60000,Samajavaragamana,450000,Sid Sriram,Ala Vaikunthapurramuloo,Romantic,2019-12-16,225,76,30000,1500000
+France,25000,125000,50000,Samajavaragamana,400000,Sid Sriram,Ala Vaikunthapurramuloo,Romantic,2019-12-16,225,73,25000,1250000
+Japan,15000,75000,30000,Inkem Inkem Inkem Kaavaale,300000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,68,15000,750000
+India,3300000,16500000,6600000,Inkem Inkem Inkem Kaavaale,5500000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,94,1800000,90000000
+USA,110000,550000,220000,Inkem Inkem Inkem Kaavaale,1100000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,88,110000,5500000
+UK,80000,400000,160000,Inkem Inkem Inkem Kaavaale,800000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,84,80000,4000000
+Canada,45000,225000,90000,Vachinde,650000,Mohana Bhogaraju,Fidaa,Folk,2017-08-04,250,80,45000,2250000
+Australia,35000,175000,70000,Vachinde,600000,Mohana Bhogaraju,Fidaa,Folk,2017-08-04,250,76,35000,1750000
+Germany,25000,125000,50000,Pilla Ra,400000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,72,25000,1250000
+France,20000,100000,40000,Pilla Ra,350000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,70,20000,1000000
+Japan,10000,50000,20000,Vachinde,300000,Mohana Bhogaraju,Fidaa,Folk,2017-08-04,250,65,10000,500000
+India,3200000,16000000,6400000,Pilla Ra,3500000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,93,1700000,85000000
+USA,105000,525000,210000,Pilla Ra,1050000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,89,105000,5250000
+UK,75000,375000,150000,Pilla Ra,700000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,85,75000,3750000
+Canada,40000,200000,80000,Inkem Inkem Inkem Kaavaale,650000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,82,40000,2000000
+Australia,30000,150000,60000,Inkem Inkem Inkem Kaavaale,600000,Sid Sriram,Geetha Govindam,Romantic,2018-08-15,220,78,30000,1500000
+Germany,20000,100000,40000,Vachinde,400000,Mohana Bhogaraju,Fidaa,Folk,2017-08-04,250,70,20000,1000000
+France,15000,75000,30000,Vachinde,350000,Mohana Bhogaraju,Fidaa,Folk,2017-08-04,250,65,15000,750000
+Japan,8000,40000,16000,Pilla Ra,300000,Anurag Kulkarni,Rx100,Pop,2018-07-05,240,60,8000,400000

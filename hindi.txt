@@ -1,0 +1,40 @@
+Country,Listeners,Revenue,Plays,Top Songs,Plays by Song,Artist,Genre,Release Date,Popularity,Streams
+India,1200000,600000,1800000,"Kesariya",600000,"Arijit Singh","Romance","2024-01-10",90,2500000
+India,1150000,575000,1725000,"Raataan Lambiyan",550000,"Jubin Nautiyal","Romance","2024-02-05",85,2400000
+USA,1050000,525000,1575000,"Makhna",510000,"Neha Kakkar","Pop","2024-03-01",84,2200000
+UK,1000000,500000,1500000,"Kuch To Hai",500000,"Tulsi Kumar","Romance","2024-04-01",80,2100000
+Germany,950000,475000,1425000,"Yaariyan",480000,"Harrdy Sandhu","Pop","2024-05-01",78,1900000
+Brazil,1150000,575000,1725000,"Tum Jo Mile",550000,"Arijit Singh","Romance","2024-06-01",87,2600000
+India,1000000,500000,1500000,"Chandigarh Mein",500000,"Gippy Grewal","Romance","2024-08-01",80,2100000
+France,950000,475000,1425000,"Yaariyan",480000,"Harrdy Sandhu","Pop","2024-09-01",85,2400000
+Spain,1150000,575000,1725000,"Makhna",550000,"Neha Kakkar","Pop","2024-10-01",84,2200000
+Italy,1050000,525000,1575000,"Channa Mereya",500000,"Arijit Singh","Love","2024-10-15",82,2000000
+India,900000,450000,1350000,"Tum Hi Ho",450000,"Arijit Singh","Sad","2024-10-20",79,1900000
+Japan,850000,425000,1275000,"Tere Bin",425000,"Neha Kakkar","Romance","2024-11-01",77,1800000
+South Korea,800000,400000,1200000,"Dil Dhadakne Do",400000,"Amit Mishra","Pop","2024-11-15",75,1700000
+Australia,750000,375000,1125000,"Duniya",375000,"Asees Kaur","Romance","2024-12-01",72,1600000
+India,700000,350000,1050000,"Chandigarh Mein",350000,"Gippy Grewal","Romance","2024-12-10",70,1500000
+USA,1200000,600000,1800000,"Aashiqui 2",600000,"Arijit Singh","Love","2024-01-12",88,2500000
+UK,1100000,550000,1650000,"Tera Ban Jaunga",550000,"Manoj Muntashir","Romance","2024-01-20",85,2300000
+Germany,1000000,500000,1500000,"Tera Yaar Hoon Main",500000,"Arijit Singh","Sad","2024-02-01",80,2000000
+Brazil,950000,475000,1425000,"Agar Tum Saath Ho",475000,"Alka Yagnik","Love","2024-02-10",78,1900000
+India,1050000,525000,1575000,"Main Phir Bhi",520000,"Jubin Nautiyal","Pop","2024-03-05",83,2100000
+France,1100000,550000,1650000,"Tere Hi Toh",550000,"Neha Kakkar","Romance","2024-03-20",82,2000000
+Spain,1150000,575000,1725000,"Tujhse Door",570000,"Arijit Singh","Love","2024-04-05",84,2200000
+Italy,1200000,600000,1800000,"Dard E Disco",600000,"Atif Aslam","Pop","2024-04-20",80,2100000
+Japan,1250000,625000,1875000,"Channa Mereya",620000,"Shreya Ghoshal","Romance","2024-05-10",85,2300000
+South Korea,1150000,575000,1725000,"Aashiq Banaya Aapne",570000,"Himesh Reshammiya","Sad","2024-06-01",79,2000000
+Australia,1050000,525000,1575000,"Dilbar",520000,"Neha Kakkar","Pop","2024-06-15",77,1900000
+India,1100000,550000,1650000,"Tum Jo Mile",550000,"Arijit Singh","Romance","2024-07-01",82,2100000
+USA,1200000,600000,1800000,"Jeene Laga Hoon",600000,"Yasser Desai","Love","2024-07-20",88,2500000
+UK,1250000,625000,1875000,"Raabta",620000,"Arijit Singh","Romance","2024-08-05",85,2300000
+Germany,1150000,575000,1725000,"Tum Mile",570000,"Neha Kakkar","Pop","2024-08-20",83,2100000
+Brazil,1050000,525000,1575000,"Peele Peele",520000,"Jubin Nautiyal","Sad","2024-09-01",78,1900000
+France,1200000,600000,1800000,"Phir Mohabbat",600000,"Mohit Chauhan","Love","2024-09-15",85,2300000
+Spain,1150000,575000,1725000,"Mere Bina",570000,"Amit Mishra","Pop","2024-10-01",82,2000000
+Italy,1050000,525000,1575000,"Chandigarh Mein",520000,"Gippy Grewal","Romance","2024-10-15",80,1900000
+Japan,1000000,500000,1500000,"Tum Hi Ho",500000,"Arijit Singh","Sad","2024-11-01",78,1800000
+South Korea,950000,475000,1425000,"Tere Bin",475000,"Neha Kakkar","Romance","2024-11-20",75,1700000
+Australia,900000,450000,1350000,"Dil Dhadakne Do",450000,"Amit Mishra","Pop","2024-12-01",72,1600000
+USA,850000,425000,1275000,"Duniya",425000,"Asees Kaur","Romance","2024-12-10",70,1500000
+UK,800000,400000,1200000,"Chandigarh Mein",400000,"Gippy Grewal","Romance","2024-12-20",68,1400000
